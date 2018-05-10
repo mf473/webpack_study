@@ -1,0 +1,6 @@
+body{background:url("../src/img/pro4-1.png") no-repeat center center;}
+.bg{
+  background: url(../src/img/1.jpg) no-repeat;
+  width: 100px;height: 200px;
+  background-size: cover;
+}
